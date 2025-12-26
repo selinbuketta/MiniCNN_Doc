@@ -1,5 +1,8 @@
 # MiniCNN Repository 
 
+## AI Use Disclosure Statement
+ChatGPT by OpenAI was used as a supportive tool to clarify theoretical concepts, assist with code comprehension, and help structure explanations. All implementations, experiments, performance measurements, and conclusions presented in this work were developed and validated independently by the author.
+
 ## 1. Big Picture
 This MiniCNN repo focused on inference which is designed to behave like a deployment-time inference engine. It is a forwars pass only neural network runtime written in pure C++.
 
